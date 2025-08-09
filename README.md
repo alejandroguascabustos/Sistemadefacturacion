@@ -15,6 +15,7 @@ Entorno:
 
 
 🟣 Se crea modelo de datos del Backend usando las clases y anotaciones de mapeo para trabajar persistencia de datos, valores unicos para cada campo y finalmente Loombok que permite reducir la cantidad de codigo generado automaticamente metodos y contructor.
+
 🟣 Se crea la capa de acceso a datos, usando la interfaz de repositorio JPARepository y algunos metodos personalizados.
 
 <img width="585" height="249" alt="imagen" src="https://github.com/user-attachments/assets/03cecaf1-52fc-4c06-8d74-43a4de02e9be" />
